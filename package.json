@@ -1,7 +1,7 @@
 {
-  "name": "mock-server-app",
+  "name": "testapi",
   "version": "1.0.0",
-  "description": "mock server app",
+  "description": "testapi",
   "main": "server.js",
   "scripts": {
     "start": "node index.js" 
