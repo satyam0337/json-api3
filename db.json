@@ -1,357 +1,50 @@
 {
-  "posts": [
+  "cars": [
     {
-      "id": "1",
-      "productName": "Pasta",
-      "brand": "Apple",
-      "price": "225",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
-      "dis": "10%",
-      "rating": "1"
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
-      "id": "2",
-      "productName": "Papad",
-      "brand": "Apple",
-      "price": "777",
-      "image": "https://cdn.tarladalal.com/members/9306/big/big_how_to_cook_pasta-15815.jpg",
-      "dis": "10%",
-      "rating": "1.2"
-    },
-    {
-      "id": "3",
-      "productName": "Sandwitch",
-      "brand": "Apple",
-      "price": "89",
-      "image": "https://static.toiimg.com/photo/84784534.cms",
-      "dis": "10%",
-      "rating": "1.3"
-    },
-    {
-      "id": "4",
-      "productName": "Alutikiya",
-      "brand": "Apple",
-      "price": "154",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
-      "dis": "10%",
-      "rating": "2"
-    },
-    {
-      "id": "5",
-      "productName": "Panipuri",
-      "brand": "Apple",
-      "price": "28",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "2.1"
-    },
-    {
-      "id": "6",
-      "productName": "Bredvada",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "2.2"
-    },
-    {
-      "id":"7",
-      "productName": "Manchuriyan",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "2.3"
-    },
-    {
-      "id": "8",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "3"
-    },
-    {
-      "id": "9",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://realhousemoms.com/wp-content/uploads/One-Pot-Alfredo-Pasta-RECIPE-CARD2.jpg",
-      "dis": "10%",
-      "rating": "3.1"
-    },
-    {
-      "id": "10",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "3.2"
-    },
-    {
-      "id": "11",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://static.toiimg.com/thumb/52759758.cms?imgsize=560987&width=800&height=800",
-      "dis": "10%",
-      "rating": "3.3"
-    },
-    {
-      "id": "12",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.foodiecrush.com/wp-content/uploads/2020/05/Penne-Marinara-Sauce-foodiecrush.com-004.jpg",
-      "dis": "10%",
-      "rating": "4"
-    },
-    {
-      "id": "13",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2019/04/Creamy-Four-Cheese-Pasta-SQ.jpg",
-      "dis": "10%",
-      "rating": "4.1"
+      "id": 2,
+      "brand": "Farari",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }, {
-      "id": "1",
-      "productName": "Pasta",
-      "brand": "Apple",
-      "price": "225",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
-      "dis": "10%",
-      "rating": "4.2"
+      "id": 3,
+      "brand": "Tata",
+			"type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
-      "id": "2",
-      "productName": "Papad",
-      "brand": "Apple",
-      "price": "777",
-      "image": "https://cdn.tarladalal.com/members/9306/big/big_how_to_cook_pasta-15815.jpg",
-      "dis": "10%",
-      "rating": "4.3"
-    },
-    {
-      "id": "3",
-      "productName": "Sandwitch",
-      "brand": "Apple",
-      "price": "89",
-      "image": "https://static.toiimg.com/photo/84784534.cms",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "4",
-      "productName": "Alutikiya",
-      "brand": "Apple",
-      "price": "154",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
-      "dis": "10%",
-      "rating": "2.5"
-    },
-    {
-      "id": "5",
-      "productName": "Panipuri",
-      "brand": "Apple",
-      "price": "28",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "2.4"
-    },
-    {
-      "id": "6",
-      "productName": "Bredvada",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "4.5"
-    },
-    {
-      "id":"7",
-      "productName": "Manchuriyan",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "4.4"
-    },
-    {
-      "id": "8",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "1.5"
-    },
-    {
-      "id": "9",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://realhousemoms.com/wp-content/uploads/One-Pot-Alfredo-Pasta-RECIPE-CARD2.jpg",
-      "dis": "10%",
-      "rating": "1.7"
-    },
-    {
-      "id": "10",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "4.8"
-    },
-    {
-      "id": "11",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://static.toiimg.com/thumb/52759758.cms?imgsize=560987&width=800&height=800",
-      "dis": "10%",
-      "rating": "3.8"
-    },
-    {
-      "id": "12",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.foodiecrush.com/wp-content/uploads/2020/05/Penne-Marinara-Sauce-foodiecrush.com-004.jpg",
-      "dis": "10%",
-      "rating": "3.9"
-    },
-    {
-      "id": "13",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2019/04/Creamy-Four-Cheese-Pasta-SQ.jpg",
-      "dis": "10%",
-      "rating": "3.6"
-    }, {
-      "id": "1",
-      "productName": "Pasta",
-      "brand": "Apple",
-      "price": "225",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
-      "dis": "10%",
-      "rating": "4.6"
-    },
-    {
-      "id": "2",
-      "productName": "Papad",
-      "brand": "Apple",
-      "price": "777",
-      "image": "https://cdn.tarladalal.com/members/9306/big/big_how_to_cook_pasta-15815.jpg",
-      "dis": "10%",
-      "rating": "2.7"
-    },
-    {
-      "id": "3",
-      "productName": "Sandwitch",
-      "brand": "Apple",
-      "price": "89",
-      "image": "https://static.toiimg.com/photo/84784534.cms",
-      "dis": "10%",
-      "rating": "3.7"
-    },
-    {
-      "id": "4",
-      "productName": "Alutikiya",
-      "brand": "Apple",
-      "price": "154",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
-      "dis": "10%",
-      "rating": "1.8"
-    },
-    {
-      "id": "5",
-      "productName": "Panipuri",
-      "brand": "Apple",
-      "price": "28",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "1.9"
-    },
-    {
-      "id": "6",
-      "productName": "Bredvada",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id":"7",
-      "productName": "Manchuriyan",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "8",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "9",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://realhousemoms.com/wp-content/uploads/One-Pot-Alfredo-Pasta-RECIPE-CARD2.jpg",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "10",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/fettuccine-alfredo-1.jpg",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "11",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://static.toiimg.com/thumb/52759758.cms?imgsize=560987&width=800&height=800",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "12",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.foodiecrush.com/wp-content/uploads/2020/05/Penne-Marinara-Sauce-foodiecrush.com-004.jpg",
-      "dis": "10%",
-      "rating": "5"
-    },
-    {
-      "id": "13",
-      "productName": "Mobile",
-      "brand": "Apple",
-      "price": "999",
-      "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2019/04/Creamy-Four-Cheese-Pasta-SQ.jpg",
-      "dis": "10%",
-      "rating": "5"
+      "id": 4,
+      "brand": "Alto",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
+"wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
